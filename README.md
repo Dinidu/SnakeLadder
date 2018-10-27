@@ -3,5 +3,6 @@
 ##### Run ::
 
 ```
+cd SnakeLadder
 java -jar out/artifacts/SnakeLadder/SnakeLadder.jar
 ```
